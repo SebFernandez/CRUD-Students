@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1619281709 source:/media/seba/Universidad/Programacion I/2021-C1/Ejercicios/TP-Integrador/Fecha.c
+	<stdio.h>
+	"Fecha.h"
+
+1619281756 /media/seba/Universidad/Programacion I/2021-C1/Ejercicios/TP-Integrador/Fecha.h
+
+1620430021 source:/media/seba/Universidad/Programacion I/2021-C1/Ejercicios/TP-Integrador/Cadena.c
+	<Cadena.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1619831439 /media/seba/Universidad/Programacion I/2021-C1/Ejercicios/TP-Integrador/Cadena.h
+
+1620436174 source:/media/seba/Universidad/Programacion I/2021-C1/Ejercicios/TP-Integrador/main.c
+	<stdio.h>
+	<stdlib.h>
+	<Fecha.h>
+	<Alumno.h>
+
+1620433107 /media/seba/Universidad/Programacion I/2021-C1/Ejercicios/TP-Integrador/Alumno.h
+	<Fecha.h>
+

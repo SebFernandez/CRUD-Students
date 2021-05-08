@@ -23,3 +23,10 @@
 1620433107 /media/seba/Universidad/Programacion I/2021-C1/Ejercicios/TP-Integrador/Alumno.h
 	<Fecha.h>
 
+1620436450 source:/media/seba/Universidad/Programacion I/2021-C1/Ejercicios/TP-Integrador/Alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<Alumno.h>
+	<Fecha.h>
+	<Cadena.h>
+
